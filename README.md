@@ -1,2 +1,4 @@
 # notebook_lab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jperkel/example_notebook/blob/master/My_sample_notebook.ipynb)
+<a target="_blank" href="https://github.com/Qwantik052/notebook_lab/blob/main/My_sample_notebook.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
