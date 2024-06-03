@@ -1,2 +1,2 @@
 # notebook_lab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jperkel/example_notebook/blob/master/My_sample_notebook.ipynb#scrollTo=XU6cOIe0YHL4)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QzESDnaS2c6figWsSW5TSDwfW2F6iLZU)
